@@ -1,24 +1,3 @@
-openpyxl
-beautifulsoup4
-requests
-pandas
-tqdm
-sentence-transformers
-faiss-cpu
-rank_bm25
-fastapi
-uvicorn
-pydantic
-streamlit
-selenium
-google-generativeai
-scikit-learn
-uvicorn
-numpy
-torch
-transformers
-datasets
-evaluate
-sentencepiece
-python-multipart
-python-dotenv
+version https://git-lfs.github.com/spec/v1
+oid sha256:845627a744a6c50a48d1e6a683794c64ded09b6b6b7fac86b451c7b69cf97e38
+size 284
