@@ -1,7 +1,6 @@
 # SHL Assessment Recommender System
 
-An **AI-powered recommendation system** that suggests the most relevant **SHL assessments** based on natural language hiring queries.  
-The system combines **lexical search (BM25)**, **semantic search (FAISS + embeddings)**, and **intelligent ranking logic** to deliver accurate, balanced, and explainable recommendations.
+An **AI-powered recommendation system** that suggests the most relevant **SHL assessments** based on natural language hiring queries. The system combines **lexical search (BM25)**, **semantic search (FAISS + embeddings)**, and **intelligent ranking logic** to deliver accurate, balanced, and explainable recommendations.
 
 ---
 
