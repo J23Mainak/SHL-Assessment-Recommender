@@ -6,7 +6,7 @@ An **AI-powered recommendation system** that suggests the most relevant **SHL as
 
 ## Demo Video
 
-**Project Demo:** --> https://drive.google.com/file/d/1Ba1Wx1xPJS7L92aoiVvLD9v1gezym8bQ/view?usp=drive_link
+**Project Demo:** https://drive.google.com/file/d/1Ba1Wx1xPJS7L92aoiVvLD9v1gezym8bQ/view?usp=drive_link
 
 ---
 
